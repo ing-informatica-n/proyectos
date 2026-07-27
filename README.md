@@ -26,7 +26,7 @@ Para poder ejecutar y compilar los proyectos de este repositorio en sus computad
 
 ## 🤝 Reglas de Contribución para los Estudiantes
 
-Como somos un equipo de 100 estudiantes, sigamos estas buenas prácticas para mantener el orden en Git:
+Como somos un equipo de estudiantes, sigamos estas buenas prácticas para mantener el orden en Git:
 
 1.  🌿 **Ramas (Branches):** No suban cambios directamente a la rama `main`. Creen una rama con las iniciales de su grupo (ej: `git checkout -b grupo-1-avance`).
 2.  💬 **Mensajes de Commit:** Escriban comentarios breves pero claros sobre lo que acaban de modificar (ej: `git commit -m "Corregido error de conexión en el login"`).
