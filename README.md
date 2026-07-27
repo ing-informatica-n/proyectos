@@ -1,6 +1,4 @@
-# 📚 [Nombre de la Materia - Ej: Base de Datos I]
-
-¡Bienvenidos al repositorio oficial de código de la sección de **Ingeniería Informática**! 🚀
+## ¡Bienvenidos al repositorio oficial de código de la sección de **Ingeniería Informática**! 🚀
 
 Este espacio ha sido creado para centralizar, almacenar y compartir los proyectos de programación, scripts, talleres y laboratorios prácticos desarrollados de forma colaborativa durante este ciclo académico.
 
